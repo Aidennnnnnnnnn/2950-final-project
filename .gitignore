@@ -1,0 +1,5 @@
+.ipynb_checkpoints/ 
+node_modules/
+# Full-size scraper output: over GitHub's 100 MB limit, so only the .gz copies are committed
+Phase II Material/LargeScraper/all_classes.jsonl
+Phase II Material/LargeScraper/cornell_meetings.csv
